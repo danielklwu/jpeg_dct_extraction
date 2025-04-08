@@ -1,0 +1,6 @@
+{
+    "files.associations": {
+        "jpeglib.h": "c"
+    },
+    "C_Cpp.errorSquiggles": "disabled"
+}
