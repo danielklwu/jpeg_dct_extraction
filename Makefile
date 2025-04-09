@@ -12,10 +12,10 @@ $(TARGET): $(SRC)
 
 # Run the program 
 run: $(TARGET)
-	./$(TARGET) input.jpg output.txt
+	./$(TARGET) input.jpg 
 
 # Clean up
 clean:
-	rm -f $(TARGET) output.txt
+	rm -f $(TARGET) output.txt *.pgm
 
 .PHONY: all run clean

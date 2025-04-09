@@ -1,6 +1,8 @@
 {
     "files.associations": {
-        "jpeglib.h": "c"
+        "jpeglib.h": "c",
+        "jerror.h": "c",
+        "stb_image_write.h": "c"
     },
     "C_Cpp.errorSquiggles": "disabled"
 }
